@@ -47,3 +47,5 @@ Access Admin Panel: http://localhost:1337/admin
 
 ### 5 . Create Sample content Type and test API
 http://localhost:1337/api/posts
+---
+loom video link : https://www.loom.com/share/a2ca182a89de4700ba3886b3f72e9aff
